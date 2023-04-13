@@ -14,7 +14,7 @@ SpringApplication.run(AmzApplication.class, args);
 }
 
 @Override
-public void run(String... args) throws Exception {
+public void run(String... args) throws Exception 
 Logger.info("second log");
 
 }
